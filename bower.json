@@ -17,6 +17,6 @@
   ],
   "license": "http://www.microsoft.com/web/webpi/eula/signalr_client_enu.htm",
   "dependencies": {
-    "jquery": "~1.6.4"
+    "jquery": ">=1.6.4"
   }
 }
