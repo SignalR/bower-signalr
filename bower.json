@@ -6,7 +6,7 @@
     "Microsoft"
   ],
   "description": "Microsoft ASP.NET SignalR JavaScript Client",
-  "main": "./jquery.signalr-2.0.2.js",
+  "main": "./jquery.signalr.js",
   "keywords": [
     "signalr",
     "microsoft",
