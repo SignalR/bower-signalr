@@ -247,7 +247,7 @@
         }
     };
 
-    _pageWindow.load(function () { _pageLoaded = true; });
+    _pageWindow.on("load", function () { _pageLoaded = true; });
 
     function validateTransport(requestedTransport, connection) {
         /// <summary>Validates the requested transport by cross checking it with the pre-defined signalR.transports</summary>
