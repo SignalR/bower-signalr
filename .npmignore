@@ -1,0 +1,4 @@
+node_modules
+
+#Exclude npm packages
+*.tgz
