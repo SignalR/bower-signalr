@@ -2,3 +2,6 @@ node_modules
 
 #Exclude npm packages
 *.tgz
+
+#Exclude bower.json from npm package
+bower.json
