@@ -1,6 +1,6 @@
 {
     "name": "signalr",
-    "version": "2.3.0",
+    "version": "2.4.0-preview1-20180920-03",
     "description": "Microsoft ASP.NET SignalR JavaScript Client",
     "main": "jquery.signalR.js",
     "repository": {
