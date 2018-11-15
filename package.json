@@ -1,27 +1,61 @@
 {
+  "_from": "signalr",
+  "_id": "signalr@2.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-GPJHb3pcNk3IUui5/WG8lMuarEn+Vpc8wEvJ60w0KQ43W9FHnJcuNcF8dkZePr81eBslzicsRdyEunKNF7KjZQ==",
+  "_location": "/signalr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "signalr",
     "name": "signalr",
-    "version": "2.4.0-preview1-20180920-03",
-    "description": "Microsoft ASP.NET SignalR JavaScript Client",
-    "main": "jquery.signalR.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/signalr/bower-signalr.git"
-    },
-    "keywords": [
-        "signalr",
-        "microsoft",
-        "asp.net",
-        "javascript",
-        "jquery",
-        "realtime"
-    ],
-    "author": "Microsoft",
-    "license": "Apache-2.0",
-    "bugs": {
-        "url": "https://github.com/signalr/bower-signalr/issues"
-    },
-    "homepage": "https://github.com/signalr/bower-signalr#readme",
-    "dependencies": {
-        "jquery": ">=1.6.4"
-    }
+    "escapedName": "signalr",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/signalr/-/signalr-2.4.0.tgz",
+  "_shasum": "92af008e6b527ad4b36e94fbb340e135087a60d2",
+  "_spec": "signalr",
+  "_where": "C:\\Users\\anurse\\Desktop",
+  "author": {
+    "name": "Microsoft"
+  },
+  "bugs": {
+    "url": "https://github.com/SignalR/SignalR/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": ">=1.6.4"
+  },
+  "deprecated": false,
+  "description": "Microsoft ASP.NET SignalR JavaScript Client",
+  "files": [
+    "jquery.signalR.js",
+    "jquery.signalR.min.js",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "homepage": "https://github.com/SignalR/SignalR",
+  "keywords": [
+    "signalr",
+    "microsoft",
+    "asp.net",
+    "javascript",
+    "jquery",
+    "realtime"
+  ],
+  "license": "Apache-2.0",
+  "main": "jquery.signalR.js",
+  "name": "signalr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signalr/bower-signalr.git"
+  },
+  "version": "2.4.0"
 }
